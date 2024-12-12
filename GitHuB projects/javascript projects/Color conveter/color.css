@@ -1,0 +1,135 @@
+#div{
+  border: solid black 2px;  
+  text-align: center;
+  position: relative;
+  right: -500px;
+  top: 300px;
+  width: 10%;
+  height: 5%;
+  font-size: 50px;
+  
+} 
+
+#div2{
+    border: solid black 2px;  
+    text-align: center;
+    width: 10%;
+    height: 5%;
+    position:relative;
+   right: -700px;
+    top : 103px;
+    font-size: 50px;
+  
+    
+  }
+
+
+
+  #div3{
+    border: solid black 2px;  
+    text-align: center;
+    width: 10%;
+    height: 5%; 
+    position: relative;
+    right: -900px;
+    top : -90px;
+    font-size: 50px;
+    
+  }
+
+
+
+  #div4{
+    border: solid black 2px;  
+    text-align: center;
+    width: 10%;
+    height: 5%;
+    position: relative;
+    right: -1100px;
+    top : -340px;
+    font-size: 50px;
+  }
+
+
+
+  #div5{
+    border: solid black 2px;  
+    text-align: center;
+    width: 10%;
+    height: 5%;
+    position: relative;
+    right: -1300px;
+    top : -530px;
+    font-size: 50px;
+
+  }
+
+  #color{
+    border: solid black 2px;  
+    text-align: center;
+    position: relative;
+    top: 1px;
+    right: -500px;
+    width: 10%;
+    height: 5%;
+    
+  } 
+  
+  #color2{
+      border: solid black 2px;  
+      text-align: center;
+      width: 10%;
+      height: 5%;
+      position:relative;
+     right: -700px;
+      top : -66px
+      
+    }
+  
+  
+  
+    #color3{
+      border: solid black 2px;  
+      text-align: center;
+      width: 10%;
+      height: 5%; 
+      position: relative;
+      right: -900px;
+      top : -133px
+      
+    }
+  
+  
+  
+    #color4{
+      border: solid black 2px;  
+      text-align: center;
+      width: 10%;
+      height: 5%;
+      position: relative;
+      right: -1100px;
+      top : -200px
+    }
+  
+  
+  
+    #color5{
+      border: solid black 2px;  
+      text-align: center;
+      width: 10%;
+      height: 5%;
+      position: relative;
+      right: -1300px;
+      top : -267px;
+  
+    } 
+
+
+    body{
+        text-align: center;
+        color: aliceblue;
+        background-color: black;
+    }
+
+
+

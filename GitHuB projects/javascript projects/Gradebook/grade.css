@@ -1,0 +1,15 @@
+#field{
+    text-align: center;
+    margin: 30px;
+    padding: 50px;
+    background-color: gray;
+    color: aliceblue;
+    width: 50%;
+
+}
+
+
+
+body{
+    background-color: black;
+}

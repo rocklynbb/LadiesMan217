@@ -1,0 +1,14 @@
+#Div{
+    border: solid hsl(0, 0%, 100%) 2px;
+    width: 500px;
+    margin: auto;
+    padding: 30px;
+} 
+
+
+body{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    
+}
